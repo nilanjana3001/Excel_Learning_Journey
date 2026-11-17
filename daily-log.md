@@ -7,3 +7,7 @@
 * **What confused me:**
  How `git clone` connects an online GitHub repository to a local folder in VS Code.
 
+### Day 2 — November 17, 2026
+* **What I did:** Learned basic Excel interface fundamentals and practiced my first 10 keyboard shortcuts. Created `cheatsheets/shortcuts.md` to document them.
+
+* **What confused me:** Remembering the difference between `Ctrl + Arrow` (moving) and `Ctrl + Shift + Arrow` (selecting).
