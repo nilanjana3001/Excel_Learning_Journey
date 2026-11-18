@@ -23,7 +23,7 @@ I am a second-year BCA student learning Excel, SQL, and Power BI to build a care
 
 ## What's Inside So Far
 * [Daily Learning Log](./daily-log.md) — My day-by-day progress notes and takeaways.
-* [Excel Keyboard Shortcuts Cheatsheet](./cheatsheets/shortcuts.md) — Top 10 navigation and editing shortcuts for Windows.
+* [Excel Keyboard Shortcuts Cheatsheet](./cheatsheets/shortcuts.md) — most useful navigation and editing shortcuts for Windows.
 
 ## Skills Practised So Far
 * Git & GitHub repository setup and version control

@@ -38,3 +38,5 @@ It's also a basic concept of EXCEL worksheet.
  **`ctrl + n`** = new wordbook.
 
  **`ctrl + o`** = Open existing wordbook.
+
+ **Ctrl + E** = Automatically fills data patterns (Flash Fill). 

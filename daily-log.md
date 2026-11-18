@@ -11,3 +11,9 @@
 * **What I did:** Learned basic Excel interface fundamentals and practiced my first 10 keyboard shortcuts. Created `cheatsheets/shortcuts.md` to document them.
 
 * **What confused me:** Remembering the difference between `Ctrl + Arrow` (moving) and `Ctrl + Shift + Arrow` (selecting).
+
+
+### Day 3 — November 18, 2026
+* **What I did:** Practiced basic data entry, Autofill for Employee IDs and names, and extra data entry shortcut tips.
+
+* **What confused me:** Nothing major today, though I paused before the currency and date formatting section to keep my focus sharp.
