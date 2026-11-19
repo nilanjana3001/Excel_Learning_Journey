@@ -17,3 +17,11 @@
 * **What I did:** Practiced basic data entry, Autofill for Employee IDs and names, and extra data entry shortcut tips.
 
 * **What confused me:** Nothing major today, though I paused before the currency and date formatting section to keep my focus sharp.
+
+### Day 4 — November 19, 2026
+* **What I did:** Completed the full basic data entry and formatting module—practiced currency and `DD-MM-YYYY` date formatting, borders, basic formulas, and advanced conditional formatting rules.
+
+* **What confused me:** Writing custom formula rules inside Conditional Formatting (locking columns with `$`). Also forgot to save my practice `.xlsx` file after practicing!
+
+* **Next step:** Recreate and save the formatting & conditional formatting `.xlsx` workbook inside a new `01-basics` folder as a quick revision.
+

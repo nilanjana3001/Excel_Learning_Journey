@@ -29,3 +29,8 @@ I am a second-year BCA student learning Excel, SQL, and Power BI to build a care
 * Git & GitHub repository setup and version control
 * Basic Excel navigation and keyboard shortcuts
 *
+## Skills Practised So Far
+* Git & GitHub repository setup and version control
+* Basic Excel Autofill, and keyboard shortcuts
+* Cell formatting (Currency, `DD-MM-YYYY` dates, borders, and alignment)
+* Basic Excel formulas and formula-based Conditional Formatting
