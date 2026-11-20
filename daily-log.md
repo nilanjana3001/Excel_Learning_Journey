@@ -26,6 +26,6 @@
 * **Next step:** Recreate and save the formatting & conditional formatting `.xlsx` workbook inside a new `01-basics` folder as a quick revision.
 
 ### Day 5 — November 20, 2026
-* **What I did:** Built and saved `01-basics/basics.xlsx` with student records, conditional formatting rules, dates, basic summary formulas (`SUM`, `AVERAGE`, `COUNT`), and `COUNTIF` counts. Added a visual preview screenshot (`01-basics/formatting-and-formulas-practice.png`) so visitors can view the sheet directly on GitHub.
+* **What I did:** Built and saved `formatting-and-formulas-practice.xlsx.` with student records, conditional formatting rules, dates, basic summary formulas (`SUM`, `AVERAGE`, `COUNT`), and `COUNTIF` counts. Added a visual preview screenshot (`01-basics/formatting-and-formulas-practice.png`) so visitors can view the sheet directly on GitHub.
 
 * **What confused me:** `COUNTIF` initially didn't match values stored as text, so I used the **Text to Columns** data tool to clean and convert the column properly.
