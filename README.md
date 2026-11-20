@@ -34,3 +34,15 @@ I am a second-year BCA student learning Excel, SQL, and Power BI to build a care
 * Basic Excel Autofill, and keyboard shortcuts
 * Cell formatting (Currency, `DD-MM-YYYY` dates, borders, and alignment)
 * Basic Excel formulas and formula-based Conditional Formatting
+
+## What's Inside So Far
+* [Daily Learning Log](./daily-log.md) — My day-by-day progress notes and takeaways.
+* [Excel Keyboard Shortcuts Cheatsheet](./cheatsheet/shortcuts.md) — Top navigation and editing shortcuts for Windows.
+* [01-basics/](./01-basics/) — Practice workbook (`basics.xlsx`) and [screenshot preview](./01-basics/formatting-and-formulas-practice.png) covering cell formatting, conditional formatting, Text to Columns, and `COUNTIF` formulas.
+
+## Skills Practised So Far
+* Git & GitHub repository setup and version control
+* Basic Excel navigation, Autofill, and keyboard shortcuts
+* Cell formatting (Currency, `DD-MM-YYYY` dates, borders, and alignment)
+* Formula-based Conditional Formatting, `COUNTIF`, and data cleaning with Text to Columns
+
