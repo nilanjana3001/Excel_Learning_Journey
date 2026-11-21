@@ -29,3 +29,8 @@
 * **What I did:** Built and saved `formatting-and-formulas-practice.xlsx.` with student records, conditional formatting rules, dates, basic summary formulas (`SUM`, `AVERAGE`, `COUNT`), and `COUNTIF` counts. Added a visual preview screenshot (`01-basics/formatting-and-formulas-practice.png`) so visitors can view the sheet directly on GitHub.
 
 * **What confused me:** `COUNTIF` initially didn't match values stored as text, so I used the **Text to Columns** data tool to clean and convert the column properly.
+
+ ### Day 6 (Project Milestone) — November 21, 2026
+* **What I did:** Built and completed my first Excel mini-project (`projects/messy-customer-list-cleanup/`), transforming a raw customer list with extra spaces, mixed text cases, and duplicates into a clean, formatted directory.
+* **What confused me:** Keeping track of intermediate helper columns while moving from raw text to deduplicated final rows.
+* **Next step:** Write a Week 1 review in `daily-log.md` and share my first mini-project on LinkedIn.

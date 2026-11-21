@@ -12,6 +12,8 @@ I'm a BCA 2nd year student learning Excel, SQL and Power BI to build a career in
 * [Daily Learning Log](./daily-log.md)
 * [Excel Keyboard Shortcuts Cheatsheet](./cheatsheets/shortcut.md)
 * [01-basics/](./01-basics/): practice workbook (`formatting-and-formulas-practice.xlsx`) with a [screenshot preview](./01-basics/formatting-and-formulas-practice.png)
+* [projects/messy-customer-list-cleanup/] : (Projects/messy-customer-list-cleanup/messy-customer-cleanup.xlsx) my first small project, cleaning a messy made-up customer list
+
 
 ## Skills Practised So Far
 * Git & GitHub: repo setup, commit, push
@@ -20,6 +22,7 @@ I'm a BCA 2nd year student learning Excel, SQL and Power BI to build a career in
 * Conditional formatting rules
 * Formulas: SUM, AVERAGE, COUNT, COUNTIF
 * Data cleaning with Text to Columns
+* Data cleaning: TRIM, PROPER, LOWER, Remove Duplicates
 
 ## Contact
 * LinkedIn: https://www.linkedin.com/in/nilanjana-acharyya-a9b980357
