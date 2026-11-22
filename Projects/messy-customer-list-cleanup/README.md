@@ -5,8 +5,8 @@ A messy made-up customer list cleaned in Excel, with the raw data and each clean
 ## Problem it solves
 Raw customer data often has duplicates, extra spaces and inconsistent capitalisation. This project cleans it into a usable list.
 
-## Preview
-![Customer list before and after cleaning]-> (messy-customer-list-cleanup/customer_list_cleanup.png)
+## How to use it:
+1. Open [messy-customer-cleanup.xlsx](messy-customer-cleanup.xlsx)
 
 ## What I used
 * `TRIM` to remove extra leading and trailing spaces
