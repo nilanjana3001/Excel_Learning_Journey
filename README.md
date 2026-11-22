@@ -24,5 +24,10 @@ I'm a BCA 2nd year student learning Excel, SQL and Power BI to build a career in
 * Data cleaning with Text to Columns
 * Data cleaning: TRIM, PROPER, LOWER, Remove Duplicates
 
+## Projects
+- [Messy Customer List Cleanup](Projects/messy-customer-cleanup): cleaned a messy customer list with PROPER, TRIM and Remove Duplicates
+- [Monthly Expense Tracker](Projects/monthly-expense-tracker): tracked a month of spending with SUMIF, COUNTIF and conditional formatting
+
+
 ## Contact
 * LinkedIn: https://www.linkedin.com/in/nilanjana-acharyya-a9b980357

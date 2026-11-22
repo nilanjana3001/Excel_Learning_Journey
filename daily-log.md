@@ -34,3 +34,10 @@
 * **What I did:** Built and completed my first Excel mini-project (`projects/messy-customer-list-cleanup/`), transforming a raw customer list with extra spaces, mixed text cases, and duplicates into a clean, formatted directory.
 * **What confused me:** Keeping track of intermediate helper columns while moving from raw text to deduplicated final rows.
 * **Next step:** Write a Week 1 review in `daily-log.md` and share my first mini-project on LinkedIn.
+
+## Day 7 - 22 Nov 2026
+- **Learned:** SUMIF and COUNTIF (range, criteria, sum_range)
+- **Built:** Monthly Expense Tracker (project 2), with 30 made-up expenses, totals per category, and red highlights for anything above ₹500
+- **Mistakes:** my Study total was wrong (1720 instead of 2204), and a circular reference in A3 turned a date into 00-01-1900
+- **How I fixed it:** I compared my category totals with the grand total, then cleared the formula that pointed at its own cell
+- **Takeaway:** always check that the parts add up to the whole.
