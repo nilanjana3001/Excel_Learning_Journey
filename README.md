@@ -23,6 +23,8 @@ I'm a BCA 2nd year student learning Excel, SQL and Power BI to build a career in
 * Formulas: SUM, AVERAGE, COUNT, COUNTIF
 * Data cleaning with Text to Columns
 * Data cleaning: TRIM, PROPER, LOWER, Remove Duplicates
+* Logical functions (`IF`, `IFS`, `AND`, `OR`) and dynamic array functions (`SORT`, `FILTER`, `TAKE`) in Excel.
+
 
 ## Projects
 - [Messy Customer List Cleanup] - [Messy Customer List Cleanup](Projects/messy-customer-list-cleanup) :cleaned a messy customer list with PROPER, TRIM and Remove Duplicates

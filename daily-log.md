@@ -41,3 +41,14 @@
 - **Mistakes:** my Study total was wrong (1720 instead of 2204), and a circular reference in A3 turned a date into 00-01-1900
 - **How I fixed it:** I compared my category totals with the grand total, then cleared the formula that pointed at its own cell
 - **Takeaway:** always check that the parts add up to the whole.
+
+
+### Day 8 — November 23, 2026
+* **What I did:** Learned IF, IFS, AND, OR and SORT, FILTER, TAKE from my course. Completed 2 practice exams (Introduction and Data Entry.**100/100** in Data Entry and **60/100** in Excel Introduction).
+
+* **What confused me:** Remembering the syntax order when combining `AND` / `OR` inside `IF` statements.
+
+* **What I learned:** [one real thing, like how IFS checks conditions in order]
+
+* **Next step:** Build the practice file for these functions.
+
