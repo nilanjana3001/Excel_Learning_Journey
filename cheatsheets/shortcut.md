@@ -40,3 +40,12 @@ It's also a basic concept of EXCEL worksheet.
  **`ctrl + o`** = Open existing wordbook.
 
  **Ctrl + E** = Automatically fills data patterns (Flash Fill). 
+
+ ## Logical Functions Reference
+
+* **`=IF(condition, value_if_true, value_if_false)`** — Checks one condition and returns a result based on whether it is true or false.
+
+* **`=IFS(cond1, val1, cond2, val2)`** — Tests multiple conditions in order without needing nested `IF` brackets.
+
+* **`=AND(cond1, cond2)`** — Returns `TRUE` only if **all** conditions are met.
+* **`=OR(cond1, cond2)`** — Returns `TRUE` if **at least one** condition is met.
