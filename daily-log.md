@@ -52,3 +52,7 @@
 
 * **Next step:** Build the practice file for these functions.
 
+### Days 9–10 — November 24–25, 2026
+* **What I did:** Family festival, so I took a break from practice.
+
+* **Next step:** Practise IF, IFS, AND, OR and SORT, FILTER, TAKE after the hackathon.
